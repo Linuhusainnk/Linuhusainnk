@@ -32,13 +32,13 @@ Here are some ideas to get you started:
   </a>
 
   <!-- <a href="https://api.daily.dev/get?r=<Your dailydev username>" target="_blank"> -->
-  <a href="" target="_blank">
+  <!-- <a href="" target="_blank">
     <img
       width="256"
       align="right"
       src="https://github.com/Linuhusainnk/Linuhusainnk/blob/main/devcard.svg"
     />
-  </a>
+  </a> -->
 
 </div>
 
