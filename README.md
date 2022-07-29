@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 Passionate React Native Developer with hands on experiance in B2B and B2C applications.
 
-![Metrics](https://raw.githubusercontent.com/<Your Linuhusainnk>/<Your Linuhusainnk>/github-metrics/github-metrics.svg)
+<!-- ![Metrics](https://raw.githubusercontent.com/<Your Linuhusainnk>/<Your Linuhusainnk>/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/<Your Linuhusainnk>/<Your Linuhusainnk>/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/<Your Linuhusainnk>/<Your Linuhusainnk>/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/<Your Linuhusainnk>/<Your Linuhusainnk>/github-metrics/achievements.svg)
+![Achievements](https://raw.githubusercontent.com/<Your Linuhusainnk>/<Your Linuhusainnk>/github-metrics/achievements.svg) -->
